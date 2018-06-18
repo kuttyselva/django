@@ -1,2 +1,2 @@
-# django
-django complete samples and web development solutions &amp; templates
+# Django-Python-Full-Stack-Web-Developer
+Notes and files for the Python full stack developer course!
